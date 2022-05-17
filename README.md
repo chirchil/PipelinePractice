@@ -1,5 +1,6 @@
 Знак качества:
 
+
 [![Build Status](https://dev.azure.com/alekseevap0275/shibalov/_apis/build/status/chirchil.PipelinePractice?branchName=develop)](https://dev.azure.com/alekseevap0275/shibalov/_build/latest?definitionId=2&branchName=develop)
 # PipelinePractice
 Пример [статус бейджа](https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser) с пайплайна:
